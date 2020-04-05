@@ -1,29 +1,7 @@
-# techno-cursos
+# Techno Cursos - A simple project to practice Vue.js with vue-router
 
-## Project setup
-```
-npm install
-```
+This is a really simple project just to practice Vue.js with vue-cli, vue-router and some animations
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Project Overview
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Techno Cursos](project-overview.gif "Project Overview")
